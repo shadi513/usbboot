@@ -9,5 +9,6 @@ You can upload any HEX file to the board using this bootloader, it's very simple
 TO BE COMPLETED SOON...
 
 
-any questions are welcome ^_^
+any questions are welcome
+
 Shadi Abu Salem <shadi513@gmail.com>
